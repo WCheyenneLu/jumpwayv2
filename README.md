@@ -9,5 +9,7 @@ Becuase the previous version was made with HTML, CSS and JS (and only had basic 
 ## Screenshots
 | Before | After |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| <img width="1437" alt="image" src="https://github.com/user-attachments/assets/349d964e-aca0-44b6-a6d0-166cb73dd734">
+  | <img width="1437" alt="image" src="https://github.com/user-attachments/assets/fe06ac2f-2372-4c6c-bb76-d878d84b205d">
+  |
 | Content Cell  | Content Cell  |
