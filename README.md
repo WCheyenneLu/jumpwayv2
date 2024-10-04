@@ -7,7 +7,7 @@ Becuase the previous version was made with HTML, CSS and JS (and only had basic 
 - Reorganized CSS files into modules instead of one massive css file for all styling
 - Addition of useState hook to create smoother slideshows or changes of display of components onClick
 
-## Screenshots
+## Examples of Improvements 
 | Before | After |
 | ------------- | ------------- |
 | **Footer**: inconsistent text, misaligned columns, inconsistent from page to page| **Footer**: improved alignment, readability, consistencey|
