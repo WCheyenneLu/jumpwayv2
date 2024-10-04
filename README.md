@@ -5,6 +5,7 @@ Becuase the previous version was made with HTML, CSS and JS (and only had basic 
 - From HTML, CSS, JS to **React JS** (allowed to convert page into an SPA, use of components for consistency, can now use React hooks to control the page better)
 - Ensured that paddings were consistent from page to page
 - Reorganized CSS files into modules instead of one massive css file for all styling
+- Addition of useState hook to create smoother slideshows or changes of display of components onClick
 
 ## Screenshots
 | Before | After |
